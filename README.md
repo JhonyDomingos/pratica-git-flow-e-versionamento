@@ -19,7 +19,7 @@ Use `git checkout nome-do-branch` para alternar entre branches existentes.
 
 ## Padrões de Commits
 
-### O que são padrões de commits?
+### O que são padrões de commits? 
 
 Padrões de commits são diretrizes para escrever mensagens de commit significativas e consistentes. Eles ajudam a entender as alterações introduzidas em um commit e a manter um histórico de alterações limpo e organizado.
 
