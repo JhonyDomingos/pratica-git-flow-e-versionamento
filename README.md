@@ -1,4 +1,4 @@
-# Repositório de Aprendizado sobre Git e Versionamento
+# Repositório de Aprendizado sobre Git e Versionamento 
 
 Este repositório é destinado a ajudar iniciantes a entender e praticar conceitos fundamentais de controle de versão, como branches, padrões de commits e versionamento. Aqui, você encontrará informações e recursos para melhorar seu conhecimento nesses tópicos.
 
