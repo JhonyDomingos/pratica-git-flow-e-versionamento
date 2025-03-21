@@ -11,11 +11,11 @@ são caminhos alternativos no desenvolvimento de um projeto, permitindo que voc�
 
 ### Como criar um novo branch?
 
-Você pode criar um novo branch usando o comando Git `git checkout -b nome-do-branch`, substituindo "nome-do-branch" pelo nome que você escolher.
+Você pode criar um novo branch usando o comando Git `git switch -c nome-do-branch`, substituindo "nome-do-branch" pelo nome que você escolher.
 
 ### Como alternar entre branches?
 
-Use `git checkout nome-do-branch` para alternar entre branches existentes.
+Use `git switch nome-do-branch` para alternar entre branches existentes.
 
 ## Padrões de Commits
 
